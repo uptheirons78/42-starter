@@ -6,6 +6,7 @@ phpunit.xml
 .idea
 uploads
 upgrade
+themes/42-theme/build
 cache
 
 # Project Files
