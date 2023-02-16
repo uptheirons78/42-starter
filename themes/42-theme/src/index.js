@@ -1,3 +1,4 @@
-import './main.css';
-
-console.log('it works!');
+/**
+ * Import main SCSS file
+ */
+import './scss/main.scss';
