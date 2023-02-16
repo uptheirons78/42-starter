@@ -4,12 +4,12 @@
   "description": "wordpress starter theme",
   "main": "index.js",
   "scripts": {
-      "watch-bs": "npm-run-all --parallel sync start",
-      "build": "wp-scripts build",
-      "start": "wp-scripts start",
-      "sync": "browser-sync start --config src/browser-sync.config.js",
-      "dev": "wp-scripts start",
-      "devFast": "wp-scripts start"
+    "watch-bs": "npm-run-all --parallel sync start",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "sync": "browser-sync start --config src/browser-sync.config.js",
+    "dev": "wp-scripts start",
+    "devFast": "wp-scripts start"
   },
   "keywords": [
     "WordPress"

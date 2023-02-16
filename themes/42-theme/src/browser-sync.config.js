@@ -1,5 +1,5 @@
 module.exports = {
-	proxy: "testsite.local",
+	proxy: "test.local",
 	notify: false,
 	files: ["build/*.css", "build/*.js", "**/*.php"],
 };
