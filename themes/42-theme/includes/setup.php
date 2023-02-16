@@ -8,8 +8,7 @@
 if (!defined('ABSPATH')) { exit; }
 
 
-function ftt_setup()
-{
+function mb_setup() {
   // Make theme available for translation.
   load_theme_textdomain('fortytwo-theme', FORTYTWO_THEME_PATH . 'languages');
 
@@ -45,4 +44,4 @@ function ftt_setup()
 
 }
 
-add_action('after_setup_theme', 'ftt_setup');
+add_action('after_setup_theme', 'mb_setup');
