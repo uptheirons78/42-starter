@@ -1,4 +1,7 @@
 /**
- * Import main SCSS file
+ * Import main CSS files
  */
-import './scss/main.scss';
+import './css/font.css';
+import './css/variables.css';
+import './css/reset.css';
+
